@@ -1,4 +1,4 @@
-# Github Mirror
+# Goodbye, Mirror
 
 > Hey guys, its me [@victrix-github](https://github.com/victrix-github) the guy behind the Github Suyu Mirror.
 > 
