@@ -1,9 +1,3 @@
-# Goodbye, Mirror
-
-> Hey guys, its me [@victrix-github](https://github.com/victrix-github) the guy behind the Github Suyu Mirror.
-> 
-> I'm removing everything from this org because Suyu got hit with a DMCA.
-
 # Suyu Emulator
 
 This repository is a mirror of the [**suyu-emu**](https://gitlab.com/suyu-emu) organization.
