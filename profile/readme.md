@@ -41,10 +41,6 @@ It is written in C++ with portability in mind, and we provide builds for Windows
 ## Hardware Requirements
 [Click here to see the Hardware Requirements](https://git.suyu.dev/suyu/suyu/wiki/Hardware-Requirements)
 
-## Migrating from yuzu
-
-See [MIGRATION.md](MIGRATION.md).
-
 ## Status
 
 We currently have builds over at the [Releases](https://git.suyu.dev/suyu/suyu/releases) page.
