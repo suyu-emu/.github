@@ -1,13 +1,6 @@
 # Suyu Emulator
 
-This repository is a mirror of the [**suyu**](https://git.suyu.dev/suyu) organization.
-
-<!--
-SPDX-FileCopyrightText: 2023 yuzu Emulator Project
-SPDX-FileCopyrightText: 2024 suyu Emulator Project
-SPDX-FileCopyrightText: 2025 CharlieDoesStuff
-SPDX-License-Identifier: GPL-3.0-or-later
--->
+This repository is a mirror of the [**suyu**](https://git.suyu.dev/suyu) organization, as a way to continue the project after the self-hosted websites shut down in 2026.
 
 **Notes**: We do not support or condone piracy in any form. In order to use suyu, you'll need keys from your real Switch system, and games which you have legally obtained and paid for. We do not intend to make money or profit from this project.
 
@@ -34,7 +27,7 @@ It is written in C++ with portability in mind, and we provide builds for Windows
 </h4>
 
 <p align="center">
-  <a href="https://chat.suyu.dev">Chat</a> |
+  <a href="https://chat.suyu.dev">Chat (To Be Archived)</a> |
   <a href="https://www.reddit.com/r/suyu/">Reddit</a> |
   <a href="#status">Status</a> |
   <a href="#development">Development</a> |
@@ -93,7 +86,7 @@ For Multiplayer, we recommend using the "Yuzu Online" patch, install instruction
 
 ## Support
 
-If you have any questions, don't hesitate to ask us in our [Chat](https://chat.suyu.dev) or [Subreddit](https://www.reddit.com/r/suyu/), make an issue or contact a developer. We don't bite!
+If you have any questions, don't hesitate to ask us in our [Chat](https://chat.suyu.dev) or [Subreddit](https://www.reddit.com/r/suyu/), but you'd have better luck making an issue here on github or contacting a developer. We don't bite!
 
 
 ## License
