@@ -1,5 +1,7 @@
 # The suyu Emulator
 
+[![Android Building](https://github.com/suyu-emu/SuyuEclipse/actions/workflows/android-build.yml/badge.svg)](https://github.com/suyu-emu/SuyuEclipse/actions/workflows/android-build.yml) [![Codespell](https://github.com/suyu-emu/SuyuEclipse/actions/workflows/codespell.yml/badge.svg)](https://github.com/suyu-emu/SuyuEclipse/actions/workflows/codespell.yml)
+
 This repository is a mirror of the [**suyu**](https://git.suyu.dev/suyu) organization, as a way to continue the project after the self-hosted websites shut down in 2026.
 
 **Notes**: We do not support or condone piracy in any form. In order to use suyu, you'll need keys from your real Switch system, and games which you have legally obtained and paid for. We do not intend to make money or profit from this project.
