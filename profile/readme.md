@@ -1,4 +1,4 @@
-# Suyu Emulator
+# The suyu Emulator
 
 This repository is a mirror of the [**suyu**](https://git.suyu.dev/suyu) organization, as a way to continue the project after the self-hosted websites shut down in 2026.
 
