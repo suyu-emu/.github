@@ -14,7 +14,7 @@ Our only website is suyu.dev so please be cautious when using other sites offeri
 
 <h1 align="center">
   <br>
-  <a href="https://suyu.dev"><img src="dist/readme/suyu__Logo-Pill.svg" alt="suyu" height="128"></a>
+  <a href="https://suyu.dev"><img src="suyu__Logo-Pill.svg" alt="suyu" height="128"></a>
   <br>
   <b>suyu</b>
   <br>
