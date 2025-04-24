@@ -75,10 +75,10 @@ For Multiplayer, we recommend using the "Yuzu Online" patch, install instruction
 
 ## Building Guide
 
-* __Windows__: [Windows Build](https://git.suyu.dev/suyu/suyu/wiki/Building-For-Windows)
-* __Linux__: [Linux Build](https://git.suyu.dev/suyu/suyu/wiki/Building-For-Linux)
-* __Android__: [Android Build](https://git.suyu.dev/suyu/suyu/wiki/Building-For-Android)
-* __MacOS__: [MacOS Build](https://git.suyu.dev/suyu/suyu/wiki/Building-for-macOS)
+* __Windows__: [Windows Build](https://web.archive.org/web/20241220055052/https://git.suyu.dev/suyu/suyu/wiki/Building-for-Windows)
+* __Linux__: [Linux Build](https://web.archive.org/web/20241220055052/https://git.suyu.dev/suyu/suyu/wiki/Building-for-Linux)
+* __Android__: [Android Build](https://web.archive.org/web/20241220055052/https://git.suyu.dev/suyu/suyu/wiki/Building-for-Android)
+* __MacOS__: [MacOS Build](https://web.archive.org/web/20241220055052/https://git.suyu.dev/suyu/suyu/wiki/Building-for-MacOS)
 
 
 
