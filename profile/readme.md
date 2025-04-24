@@ -55,7 +55,7 @@ This project is completely free and open source, and anyone can contribute to he
 
 Most of the development happens on Git. For development discussion, please join us in our [Chat](https://chat.suyu.dev) or [Subreddit](reddit.com/r/suyu/), you can also contact a developer.
 
-If you want to contribute, please take a look at the [Contributor's Guide](https://git.suyu.dev/suyu/suyu/wiki/Contributing) and [Developer Information](https://git.suyu.dev/suyu/suyu/wiki/Developer-Information).
+If you want to contribute, please take a look at the [Contributor's Guide](https://web.archive.org/web/20241220084820/https://git.suyu.dev/suyu/suyu/wiki/Contributing) and [Developer Information](https://web.archive.org/web/20241217191056/https://git.suyu.dev/suyu/suyu/wiki/Developer-Information).
 You can also contact any of the developers on the Chat to learn more about the current state of suyu.
 
 ## Downloads
