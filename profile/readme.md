@@ -1,6 +1,6 @@
 # The suyu Emulator
 
-[![Android Building](https://github.com/suyu-emu/SuyuEclipse/actions/workflows/android-build.yml/badge.svg)](https://github.com/suyu-emu/SuyuEclipse/actions/workflows/android-build.yml) [![Codespell](https://github.com/suyu-emu/SuyuEclipse/actions/workflows/codespell.yml/badge.svg)](https://github.com/suyu-emu/SuyuEclipse/actions/workflows/codespell.yml)
+[![Android Building](https://github.com/suyu-emu/SuyuEclipse/actions/workflows/android-build.yml/badge.svg)](https://github.com/suyu-emu/SuyuEclipse/actions/workflows/android-build.yml) [![Codespell](https://github.com/suyu-emu/SuyuEclipse/actions/workflows/codespell.yml/badge.svg)](https://github.com/suyu-emu/SuyuEclipse/actions/workflows/codespell.yml) [![Deploy Svelte to GitHub Pages](https://github.com/suyu-emu/website/actions/workflows/deploy.yml/badge.svg)](https://github.com/suyu-emu/website/actions/workflows/deploy.yml)
 
 This repository is a mirror of the [**suyu**](https://web.archive.org/web/20240925000822/https://git.suyu.dev/suyu) organization, as a way to continue the project after the self-hosted websites shut down in 2026.
 
