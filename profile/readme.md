@@ -60,11 +60,11 @@ You can also contact any of the developers on the Chat to learn more about the c
 
 ## Downloads
 
-* __Windows__: [Releases](https://git.suyu.dev/suyu/suyu/releases)
-* __Linux__: [Releases](https://git.suyu.dev/suyu/suyu/releases)
-* __macOS__: [Releases](https://git.suyu.dev/suyu/suyu/releases)
-* __Android__: [Releases](https://git.suyu.dev/suyu/suyu/releases)
-###### We currently do not provide builds for iOS, however if you would like, you could try the experimental [Sudachi Emulator](https://sudachi.emuplace.app/) and it's bigger parent project: [Folium](https://apps.apple.com/us/app/folium/id6498623389).
+* __0.0.4__: [Unofficial Internet Archive Backup](https://archive.org/details/suyu-emu_archive)
+* __0.0.3__: [Releases](https://github.com/suyu-emu/suyu-releases/tree/master/3f178ae15ef039266fade3970d042b1463dc20a3)
+* __0.0.2__: [Releases](https://github.com/suyu-emu/suyu-releases/tree/master/v0.0.2-master)
+* __0.0.1__: [Releases](https://github.com/suyu-emu/suyu-releases/tree/master/v0.0.1-master)
+
 
 If you want daily builds then [Click here](https://git.suyu.dev/suyu/suyu/actions).
 If you don't know how to download the daily builds then [Click here](https://git.suyu.dev/suyu/suyu/raw/branch/dev/img/daily-builds.png)
@@ -79,7 +79,7 @@ For Multiplayer, we recommend using the "Yuzu Online" patch, install instruction
 * __Linux__: [Linux Build](https://web.archive.org/web/20241220055052/https://git.suyu.dev/suyu/suyu/wiki/Building-for-Linux)
 * __Android__: [Android Build](https://web.archive.org/web/20241220055052/https://git.suyu.dev/suyu/suyu/wiki/Building-for-Android)
 * __MacOS__: [MacOS Build](https://web.archive.org/web/20241220055052/https://git.suyu.dev/suyu/suyu/wiki/Building-for-MacOS)
-
+###### We currently do not provide builds for iOS, however if you would like, you could try the experimental [Sudachi Emulator](https://sudachi.emuplace.app/) and it's bigger parent project: [Folium](https://apps.apple.com/us/app/folium/id6498623389).
 
 
 ## Support
