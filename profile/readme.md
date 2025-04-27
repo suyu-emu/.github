@@ -65,11 +65,7 @@ You can also contact any of the developers on the Chat to learn more about the c
 * __0.0.2__: [Releases](https://github.com/suyu-emu/suyu-releases/tree/master/v0.0.2-master)
 * __0.0.1__: [Releases](https://github.com/suyu-emu/suyu-releases/tree/master/v0.0.1-master)
 
-
-If you want daily builds then [Click here](https://git.suyu.dev/suyu/suyu/actions).
-If you don't know how to download the daily builds then [Click here](https://git.suyu.dev/suyu/suyu/raw/branch/dev/img/daily-builds.png)
-
-We have official builds [here.](https://git.suyu.dev/suyu/suyu/releases)<br>If any website or person is claiming to have a build for suyu, take that with a grain of salt and let us know.
+We have official builds [here.](https://github.com/suyu-emu/suyu-releases/)<br>If any website or person is claiming to have a build for suyu, take that with a grain of salt and let us know.
 
 For Multiplayer, we recommend using the "Yuzu Online" patch, install instructions can be found on Reddit and their Discord, although any online patches/hacks for Yuzu or any of it's forks should work fine with suyu.
 
