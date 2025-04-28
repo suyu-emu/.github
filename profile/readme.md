@@ -75,7 +75,7 @@ For Multiplayer, we recommend using the "Yuzu Online" patch, install instruction
 * __Linux__: [Linux Build](https://web.archive.org/web/20241220055052/https://git.suyu.dev/suyu/suyu/wiki/Building-for-Linux)
 * __Android__: [Android Build](https://web.archive.org/web/20241220055052/https://git.suyu.dev/suyu/suyu/wiki/Building-for-Android)
 * __MacOS__: [MacOS Build](https://web.archive.org/web/20241220055052/https://git.suyu.dev/suyu/suyu/wiki/Building-for-MacOS)
-###### We currently do not provide builds for iOS, however if you would like, you could try the experimental [Sudachi Emulator](https://sudachi.emuplace.app/) and it's bigger parent project: [Folium](https://apps.apple.com/us/app/folium/id6498623389).
+###### We currently do not provide builds for iOS, however if you would like, you could try the experimental [Sudachi Emulator](https://www.reddit.com/r/sudachiemulator/) and it's bigger parent project: [Folium](https://apps.apple.com/us/app/folium/id6498623389).
 
 
 ## Support
