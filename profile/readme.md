@@ -45,7 +45,7 @@ It is written in C++ with portability in mind, and we provide builds for Windows
 
 ## Status
 
-We currently have builds over at the [Releases](https://github.com/suyu-emu/suyu-releases) page.
+We currently have builds over at the [Releases](https://github.com/suyubot/releases/releases) page.
 
 **Note**: We try to update this README whenever we can, but some links might be broken, and some information may be outdated or irrelevant.
 
@@ -60,8 +60,8 @@ You can also contact any of the developers on the Chat to learn more about the c
 
 ## Downloads
 
-* __0.0.4__: [Unofficial Internet Archive Backup](https://archive.org/details/suyu-emu_archive)
-* __0.0.3__: [Releases](https://github.com/suyu-emu/suyu-releases/tree/master/3f178ae15ef039266fade3970d042b1463dc20a3)
+* __0.0.4__: WIP
+* __0.0.3__: [Releases](https://github.com/suyubot/releases/releases/tag/v0.0.3)
 * __0.0.2__: [Releases](https://github.com/suyu-emu/suyu-releases/tree/master/v0.0.2-master)
 * __0.0.1__: [Releases](https://github.com/suyu-emu/suyu-releases/tree/master/v0.0.1-master)
 
