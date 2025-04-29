@@ -37,7 +37,6 @@ It is written in C++ with portability in mind, and we provide builds for Windows
   <a href="#building">Building</a> |
   <a href="#support">Support</a> |
   <a href="#license">License</a> |
-  <a href="https://git.suyu.dev/suyu/suyu/actions">Pipelines</a>
 </p>
 
 ## Hardware Requirements
@@ -53,10 +52,10 @@ We currently have builds over at the [Releases](https://github.com/suyubot/relea
 
 This project is completely free and open source, and anyone can contribute to help improve suyu.
 
-Most of the development happens on Git. For development discussion, please join us in our [Chat](https://chat.suyu.dev) or [Subreddit](reddit.com/r/suyu/), you can also contact a developer.
+Most of the development happens on Github. For development discussion, please join us in our [Discussions Page](https://github.com/orgs/suyu-emu/discussions), you can also contact a developer or use our old [Chat](https://chat.suyu.dev) until the domain expires (you must already have a suyu Chat account to do so, as new accounts can no longer be created) and [Subreddit](reddit.com/r/suyu/).
 
 If you want to contribute, please take a look at the [Contributor's Guide](https://web.archive.org/web/20241220084820/https://git.suyu.dev/suyu/suyu/wiki/Contributing) and [Developer Information](https://web.archive.org/web/20241217191056/https://git.suyu.dev/suyu/suyu/wiki/Developer-Information).
-You can also contact any of the developers on the Chat to learn more about the current state of suyu.
+You can also contact any of the developers on Github to learn more about the current state of suyu.
 
 ## Downloads
 
