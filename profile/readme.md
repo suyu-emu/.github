@@ -40,7 +40,7 @@ It is written in C++ with portability in mind, and we provide builds for Windows
 </p>
 
 ## Hardware Requirements
-[Click here to see the Hardware Requirements](https://git.suyu.dev/suyu/suyu/wiki/Hardware-Requirements)
+[Click here to see the Hardware Requirements](https://web.archive.org/web/20250401081146/https://git.suyu.dev/suyu/suyu/wiki/Hardware-Requirements)
 
 ## Status
 
