@@ -4,7 +4,7 @@
 
 This repository is a mirror of the [**suyu**](https://web.archive.org/web/20240925000822/https://git.suyu.dev/suyu) organization, as a way to continue the project after the self-hosted websites shut down in 2026.
 
-**Notes**: We do not support or condone piracy in any form. In order to use suyu, you'll need keys from your real Switch system, and games which you have legally obtained and paid for. We do not intend to make money or profit from this project.
+**Notes**: We do not support or condone piracy in any form. In order to use suyu, you'll need keys from your real Switch or Switch 2 system, and games which you have legally obtained and paid for. We do not intend to make money or profit from this project.
 
 We're in need of developers. Please join go to this Org's Github Discussions Page or DM a developer if you want to contribute as the project repository is private, although we will make a mirror on another platform so users have access to the source code, as is required under the GPL 3.0 License. 
 
