@@ -8,7 +8,7 @@ This repository is a mirror of the [**suyu**](https://web.archive.org/web/202409
 
 We're in need of developers. Please join go to this Org's Github Discussions Page or DM a developer if you want to contribute as the project repository is private, although we will make a mirror on another platform so users have access to the source code, as is required under the GPL 3.0 License. 
 
-This repo is currently based on Yuzu EA 4176 (with multiple commits borrowed from the Sudachi, Torzu, Ziunx, Citron/Uzuy and Nozomi forks) but the code will be "evolved" from the ground up to combat legal and performance related concerns.
+This repo is is currently based on Eden (was formerly based on Yuzu EA 417 with multiple commits borrowed from the Sudachi, Torzu, Ziunx, Citron/Uzuy and Nozomi forks) with the code being "evolved" from the core upward to combat legal and performance related concerns.
 
 Our only websites are suyu.dev and suyu-emu.github.io so please be cautious when using other sites offering downloads for builds relating to suyu and other emulators.
 
